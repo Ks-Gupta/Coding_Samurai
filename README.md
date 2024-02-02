@@ -27,7 +27,8 @@ This repository contains a simple calculator created using HTML, CSS, and JavaSc
 
 ## Screenshots
 
-![Calculator Screenshot](screenshots/calculator-screenshot.png)
+![image](https://github.com/Ks-Gupta/Coding_Samurai/assets/149684823/d5d9c0ed-91e5-4751-ae6c-6ff50218a50b)
+
 
 ## Contributing
 
@@ -40,4 +41,3 @@ If you'd like to contribute to the development of this simple calculator, feel f
 
 Feel free to customize the README file based on your preferences and add more sections if needed. The key is to provide enough information for users to understand what your project does and how to use it.
 
-![image](https://github.com/Ks-Gupta/Coding_Samurai/assets/149684823/d5d9c0ed-91e5-4751-ae6c-6ff50218a50b)
