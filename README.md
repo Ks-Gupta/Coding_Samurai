@@ -23,7 +23,7 @@ This repository contains a simple calculator created using HTML, CSS, and JavaSc
 1. Enter numbers using the calculator buttons.
 2. Use the operation buttons (`+`, `-`, `*`, `/`) to perform calculations.
 3. Click the equals (`=`) button to see the result.
-4. Clear the input with the `C` button.
+4. Clear the input with the `AC` button.
 
 ## Screenshots
 
